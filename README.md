@@ -1,2 +1,2 @@
-# Coffee-Lover-Bootstrap-Project-
+# Coffee-Lover-Bootstrap-Project
 Bootstrap Project
